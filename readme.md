@@ -1,3 +1,3 @@
-# Git course
+# Git
 
 New branch
