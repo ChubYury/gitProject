@@ -1,3 +1,3 @@
-# Git course
+# Git
 
-Git course
+experiments
